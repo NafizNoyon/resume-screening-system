@@ -6,6 +6,10 @@ Try the deployed application here:
 
 [AI Resume Job Matcher App](https://ai-resume-job-matcher-nafiz1.streamlit.app/)
 
+## Application Screenshot
+
+![AI Resume Screening System Screenshot](assets/app_screenshot.png)
+
 
 
 # AI-Powered Resume Screening and Job Matching System
