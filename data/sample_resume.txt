@@ -1,0 +1,1 @@
+I am an aspiring AI and Machine Learning Engineer with experience in Python, pandas, NumPy, scikit-learn, data cleaning, machine learning model development, feature engineering, Streamlit dashboard development, and GitHub project deployment. I have worked on customer churn prediction using Logistic Regression and XGBoost.
